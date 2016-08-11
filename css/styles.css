@@ -1,5 +1,9 @@
+body {
+  background-color: #d3d3d3;
+}
+
 h1 {
-  color: blue
+  color: red
 }
 
 h2 {
@@ -8,9 +12,10 @@ h2 {
 }
 
 p {
-  font-family: sans-serif;
-}
+  font-family:fantasy;{
+  
 
+}
 ul{
   font-size: 20px;
   line-height: 30px;
